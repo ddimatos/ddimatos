@@ -1,5 +1,3 @@
-### Hey there 👋
-
 I’m currently leading [Ansible Z](https://ibm.github.io/z_ansible_collections_doc/index.html)
  - Reopsitories
    - [Ansible Z Source](https://github.com/ansible-collections/ibm_zos_core)
